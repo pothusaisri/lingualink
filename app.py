@@ -290,7 +290,7 @@ def display_conversation_history():
     if st.download_button(
         label="Download History as CSV",
         data=generate_history_csv(),
-        file_name="translito_history.csv",
+        file_name="lingualink_history.csv",
         mime="text/csv"
     ):
         st.success("History downloaded successfully!")
@@ -337,7 +337,7 @@ def generate_history_csv():
     return output.getvalue()
 
 def main():
-    st.set_page_config(page_title="Translito", layout="wide")
+    st.set_page_config(page_title="lingualink", layout="wide")
 
     # Add custom CSS styles
     st.markdown(
