@@ -1,6 +1,6 @@
 # 🌍 LinguaLink: AI-Powered Real-Time Translation Suite 🚀
 AI powered quik and seemless language translation web app  
-**Live Demo:** 👉 [Try LinguaLink Now!]()  
+**Live Demo:** 👉 [Try LinguaLink Now!](https://lingualink.streamlit.app/)  
 
 ---
 
